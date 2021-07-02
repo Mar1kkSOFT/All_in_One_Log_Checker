@@ -1,1 +1,2 @@
-# All_in_One_Log_Checker
+# All in One Log Checker
+# open source user logs checker
