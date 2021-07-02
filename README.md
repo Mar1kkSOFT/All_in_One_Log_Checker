@@ -1,2 +1,3 @@
 # All in One Log Checker
-# open source user logs checker
+# Чекер логов с открытым исходным кодом
+ 
